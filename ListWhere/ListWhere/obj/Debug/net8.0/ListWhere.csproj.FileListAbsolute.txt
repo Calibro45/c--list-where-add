@@ -1,0 +1,14 @@
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\bin\Debug\net8.0\ListWhere.exe
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\bin\Debug\net8.0\ListWhere.deps.json
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\bin\Debug\net8.0\ListWhere.runtimeconfig.json
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\bin\Debug\net8.0\ListWhere.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\bin\Debug\net8.0\ListWhere.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.AssemblyInfoInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.AssemblyInfo.cs
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.csproj.CoreCompileInputs.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\refint\ListWhere.dll
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.pdb
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ListWhere.genruntimeconfig.cache
+D:\Users\ANDREA\Documents\Programmazione\C#\ListWhere\ListWhere\obj\Debug\net8.0\ref\ListWhere.dll
